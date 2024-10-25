@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Settings">
+
+        <ListPreference
+            android:key="tasks"
+            android:title="@string/antall_setting"
+            android:summary="%s"
+            android:defaultValue="5"
+            android:entries="@array/numTasks"
+            android:entryValues="@array/numTasksValues" />
+
+        <ListPreference
+            android:key="language"
+            android:title="@string/sprok_setting"
+            android:summary="%s"
+            android:defaultValue="no"
+            android:entries="@array/languageOptions"
+            android:entryValues="@array/languageValues" />
+    </PreferenceCategory>
+</PreferenceScreen>

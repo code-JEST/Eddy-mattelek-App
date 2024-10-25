@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Eddys Mathe-Spiel</string>
+    <string name="start">Spiel starten</string>
+    <string name="om">Über das Spiel</string>
+    <string name="pref">Einstellungen</string>
+
+    <string name="antall_setting">Anzahl der Fragen</string>
+    <string name="sprok_setting">Sprache</string>
+    <string name="opp5_setting">5 Aufgaben</string>
+    <string name="opp10_setting">10 Aufgaben</string>
+    <string name="opp15_setting">15 Aufgaben</string>
+
+    <string name="feil_melding">Die aufrufende Klasse muss das Interface implementieren!</string>
+    <string name="dialog_title">Möchtest du das Spiel beenden?</string>
+    <string name="dialog_yes">Ja, ich möchte beenden</string>
+    <string name="dialog_no">Nein, ich möchte weiterspielen</string>
+
+    <string name="tilbake">Zurück</string>
+    <string name="sjekk">Antwort prüfen</string>
+
+    <string name="about_game">Hallo, kleiner Freund! Willkommen in Eddy Pandas Mathewelt!\n\nEddy liebt es zu zählen, aber manchmal braucht er ein bisschen Hilfe.
+        Hier kommst du ins Spiel! Du wirst verschiedene Matheaufgaben sehen, und deine Aufgabe ist es, die richtige Antwort zu finden.\n\nJedes Mal, wenn du richtig antwortest, freut sich Eddy sehr!</string>
+
+    <string name="alleSvart">Alle Fragen wurden beantwortet!</string>
+    <string name="ikkeGydligSvar">Bitte gib eine gültige Antwort ein</string>
+    <string name="fullførtAlle">Du bist der Beste! Du hast alle Fragen gelöst</string>
+
+    <string-array name="riktig_mld">
+        <item>Wie gut du bist!</item>
+        <item>Wow, das war richtig!</item>
+        <item>Super, gut gemacht!</item>
+    </string-array>
+
+    <string-array name="feil_mld">
+        <item>Oh nein, das war ein Fehler. Versuche es noch einmal!</item>
+        <item>Ups, das war nicht ganz richtig. Aber du kannst es erneut versuchen!</item>
+        <item>Oh nein, das war diesmal nicht korrekt. Aber du bist gut, also versuche es erneut!</item>
+    </string-array>
+</resources>

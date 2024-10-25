@@ -1,0 +1,21 @@
+<resources>
+    <string-array name="numTasks">
+        <item>@string/opp5_setting</item>
+        <item>@string/opp10_setting</item>
+        <item>@string/opp15_setting</item>
+    </string-array>
+    <string-array name="numTasksValues">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="languageOptions">
+        <item>Norsk</item>
+        <item>Deutsch</item>
+    </string-array>
+    <string-array name="languageValues">
+        <item>no</item>
+        <item>de</item>
+    </string-array>
+</resources>

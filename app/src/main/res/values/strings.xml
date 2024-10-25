@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Eddy\'s mattelek</string>
+    <string name="start">Start spill</string>
+    <string name="om">Om spillet</string>
+    <string name="pref">Preferanser</string>
+
+    <string name="antall_setting">Antall spørsmål</string>
+    <string name="sprok_setting">Språk</string>
+    <string name="opp5_setting">5 Oppgaver</string>
+    <string name="opp10_setting">10 Oppgaver</string>
+    <string name="opp15_setting">15 Oppgaver</string>
+
+
+
+    <string name="feil_melding">Kallende klasse må implementere interfacet!</string>
+    <string name="dialog_title">Vil du avslutte spillet?</string>
+    <string name="dialog_yes">Ja, jeg vil avslutte</string>
+    <string name="dialog_no">Nei, jeg vil fortsette</string>
+
+
+    <string name="tilbake">Tilbake</string>
+    <string name="sjekk">Sjekk svar</string>
+
+
+    <string name="about_game">Hei, lille venn! Velkommen til Eddy Panda\'s matematikkverden!\n\nEddy elsker å telle, men noen ganger trenger han litt hjelp.
+        Det er her du kommer inn! Du vil bli vist forskjellige matteproblemer, og din oppgave er å finne svaret.\n\nHver gang du svarer riktig, blir Eddy veldig glad!</string>
+
+
+    <integer name="en">1</integer>
+    <integer name="to">2</integer>
+    <integer name="tre">3</integer>
+    <integer name="fire">4</integer>
+    <integer name="fem">5</integer>
+    <integer name="seks">6</integer>
+    <integer name="sju">7</integer>
+    <integer name="atte">8</integer>
+    <integer name="ni">9</integer>
+    <integer name="noll">0</integer>
+
+    <string name="alleSvart">Alle spørsmål er besvart! Det finnes ikke flere spørsmål</string>
+    <string name="ikkeGydligSvar">Skriv inn et gyldig svar</string>
+    <string name="fullførtAlle">Du er best! Du har fullført alle spørsmålene</string>
+
+
+    <string-array name="riktig_mld">
+        <item>Så flink du er!</item>
+        <item>Wow, det var riktig!</item>
+        <item>Supert, bra jobba!</item>
+    </string-array>
+
+    <string-array name="feil_mld">
+        <item>Oi oi, det ble litt feil. Prøv igjen!</item>
+        <item>Ups, det var ikke helt riktig. Men det er bare å prøve på nytt!</item>
+        <item>Å nei, det var ikke riktig denne gangen. Men du er flink, så prøv igjen!</item>
+    </string-array>
+</resources>
